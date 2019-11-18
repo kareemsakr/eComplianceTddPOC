@@ -2,11 +2,11 @@
 
 ## expo start
 
-> to run application. (space, space)
+> to run application.
 
 ## yarn test
 
-> to run unit testing and snapshit testing. (space, space)
+> to run unit testing and snapshot testing.
 
 ![](IMB_1VfNH4.gif)
 
